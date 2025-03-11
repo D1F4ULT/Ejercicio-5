@@ -28,3 +28,16 @@ h1 {
 .restaurant h2 {
     color: #ff5733;
 }
+
+.restaurant img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.restaurant p {
+    color: #363636;
+    font-size: 16px;
+    line-height: 1.5;
+}
